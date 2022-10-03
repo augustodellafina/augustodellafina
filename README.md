@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
   
 ### <div align="left">I'm Augusto, a full-time Front-end Developer 👨🏻‍💻 working remotely since 2018 🚀</div>  
