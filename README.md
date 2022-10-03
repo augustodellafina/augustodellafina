@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
-</div>  
+</div>
   
 ### <div align="left">I'm Augusto, a full-time Front-end Developer 👨🏻‍💻 working remotely since 2018 🚀</div>  
 
@@ -13,7 +13,7 @@
 <br/>  
 
 ## Skill Set  
-<table style="overflow: hidden !important;"><tr><td valign="top" width="33%">
+<table class="td-table"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -86,3 +86,9 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=augustodellafina&&style=flat-square" align="center" />
 </div>  
+
+<style>
+  table.td-table {
+    display: table !important;
+  }
+</style>
