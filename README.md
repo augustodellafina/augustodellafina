@@ -13,7 +13,7 @@
 <br/>  
 
 ## Skill Set  
-<table style="overflow: hidden;"><tr><td valign="top" width="33%">
+<table style="overflow: hidden !important;"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
