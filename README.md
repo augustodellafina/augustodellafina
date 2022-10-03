@@ -13,7 +13,7 @@
 <br/>  
 
 ## Skill Set  
-<table class="td-table"><tr><td valign="top" width="33%">
+<table style="display: table !important;"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -87,8 +87,3 @@
 <img src="https://komarev.com/ghpvc/?username=augustodellafina&&style=flat-square" align="center" />
 </div>  
 
-<style>
-  table.td-table {
-    display: table !important;
-  }
-</style>
