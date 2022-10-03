@@ -1,27 +1,19 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />
 </div>  
   
-
 ### <div align="left">I'm Augusto, a full-time Front-end Developer 👨🏻‍💻 working remotely since 2018 🚀</div>  
-  
 
-- 🌱 I’m currently learning Python  
-  
+- 🌱 I’m currently learning more about React and JavaScript
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- ⚡ Fun fact: I use tabs over spaces
 
 <br/>  
 
-
 ## Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table style="overflow: hidden;"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -42,7 +34,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -85,7 +76,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
