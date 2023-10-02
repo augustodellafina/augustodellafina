@@ -4,7 +4,7 @@
   
 ### <div align="left">I'm Augusto, a Front-end Engineer 👨🏻‍💻 working remotely since 2018 🚀</div>  
 
-- 🌱 I’m currently learning more about React and TypeScript
+- 🌱 I’m currently learning more about Python and Artificial Intelligence
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
