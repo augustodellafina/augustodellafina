@@ -2,7 +2,7 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
   
-### <div align="left">I'm Augusto, a Front-end Engineer 👨🏻‍💻 working remotely since 2018 🚀</div>  
+### <div align="left">A Front-end Engineer 👨🏻‍💻 working remotely since 2018 🚀</div>  
 
 - 🌱 I’m on an undergraduate degree in Computer Science and Python for AI at Harvard University
 
